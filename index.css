@@ -1,0 +1,45 @@
+html, body
+{
+   height: 100%;
+}
+div#space
+{
+   width: 1px;
+   height: 50%;
+   margin-bottom: -557px;
+   float:left
+}
+div#container
+{
+   width: 970px;
+   height: 1115px;
+   margin: 0 auto;
+   position: relative;
+   clear: left;
+}
+body
+{
+   background-color: #000000;
+   color: #000000;
+   font-family: Arial;
+   font-size: 8px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#SlideShow1 .image
+{
+   border-width: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image1
+{
+   border: 0px #000000 solid;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
